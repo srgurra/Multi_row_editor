@@ -4,7 +4,8 @@ Installation and setup:
 
 1. Create database "datatables" into localhost/phpmyadmin.
 2. Then you need to import database file "datatables.sql" into phpmyadmin.
-3. Place code in xampp/htdocs/editor directory.
+3. Create a directory "editor" in xampp/htdocs
+4. Place code in xampp/htdocs/editor directory.
 
 
 Usage:
